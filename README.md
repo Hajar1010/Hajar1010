@@ -11,7 +11,7 @@
 
 - 🎲 [Roulette Game](https://github.com/Hajar1010/roulette-game): bet on numbers and try your luck!
 - 🔐 [Password Checker](https://github.com/Hajar1010/password-checker): checks strength of a password
-- 🧠 Hangman Game (coming soon...)
+- 🧠 Word Scrambler Game (coming soon...)
 
 ## 💻 Technologies I'm Learning
 
