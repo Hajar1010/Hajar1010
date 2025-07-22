@@ -11,11 +11,12 @@
 
 - 🎲 [Roulette Game](https://github.com/Hajar1010/roulette-game): bet on numbers and try your luck!
 - 🔐 [Password Checker](https://github.com/Hajar1010/password-checker): checks strength of a password
-- 🧠 Word Scrambler Game (coming soon...)
+- 🧠 [Mystery Word Game](https://github.com/Hajar1010/guess-the-word):guess the word (WORDLE_STYLE)
 
 ## 💻 Technologies I'm Learning
 
 - Python (my favorite)
+- C
 - Git & GitHub
 - HTML, CSS, JavaScript (starting soon)
 ---
