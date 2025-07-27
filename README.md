@@ -1,6 +1,6 @@
 
 ![Banner](https://i.imgur.com/SSVG2QK.png)
-# 👋 Hi there, I'm Hajar!
+# About me
 
 🎓 I'm a Computer Science student learning to build fun and useful things with Python.    
 💡 I enjoy working on mini-games, command-line apps, and interactive tools.  
