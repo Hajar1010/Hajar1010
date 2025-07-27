@@ -2,7 +2,7 @@
 
 # 👋 Hi there, I'm Hajar!
 
-🎓 I'm a Computer Science student learning to build fun and useful things with Python.  
+🎓 I'm a Computer Science student learning to build fun and useful things with Python.    
 💡 I enjoy working on mini-games, command-line apps, and interactive tools.  
 🌱 Currently improving my skills in logic, clean code, and GitHub workflows.  
 🎮 I’ve built things like a password strength checker, a word scrambler, and a roulette game!
@@ -21,6 +21,18 @@
 - HTML, CSS, JavaScript (starting soon)
 ---
 
-📬 Want to connect or give feedback? Feel free to reach out or follow my work here on GitHub!
+## GitHub Stats
 
+![Hajar1010's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hajar1010&show_icons=true&theme=radical)
+
+---
+
+## Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/hajaressalihi/)  
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&style=flat-square)](https://twitter.com/hajar1010)  
+
+---
+
+Thanks for visiting my profile! Feel free to connect or check out my projects. 😊
 
