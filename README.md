@@ -1,5 +1,5 @@
 
-![Banner]((https://imgur.com/SSVG2QK)) 
+![Banner](https://i.imgur.com/SSVG2QK.png)
 # 👋 Hi there, I'm Hajar!
 
 🎓 I'm a Computer Science student learning to build fun and useful things with Python.    
