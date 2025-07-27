@@ -1,5 +1,4 @@
-
-![Banner](https://imgur.com/a/t9ov1LT.png)
+![Banner](https://i.imgur.com/NZUP7ti.png)
 # About me
 
 🎓 I'm a Computer Science student learning to build fun and useful things with Python.    
