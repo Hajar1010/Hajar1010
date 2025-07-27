@@ -1,5 +1,5 @@
 
-
+![Banner](https://imgur.com/a/oYAk5kx)
 # 👋 Hi there, I'm Hajar!
 
 🎓 I'm a Computer Science student learning to build fun and useful things with Python.    
