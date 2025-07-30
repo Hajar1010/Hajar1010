@@ -17,7 +17,7 @@
 - Python (my favorite)
 - C
 - Git & GitHub
-- HTML, CSS, JavaScript (starting soon)
+- HTML, CSS, JavaScript
 ---
 
 ## GitHub Stats
