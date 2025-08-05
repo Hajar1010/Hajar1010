@@ -1,21 +1,42 @@
-![Banner](https://i.imgur.com/NZUP7ti.png)
-### About me
+<p align="center">
+  <img src="https://i.imgur.com/NZUP7ti.png" alt="Banner" />
+</p>
 
-🎓 I'm a Computer Science student learning to build fun and useful things with Python.    
+---
+
+### 👋 About Me
+
+🎓 I'm a Computer Science student passionate about building fun and useful things with Python.  
 💡 I enjoy working on mini-games, command-line apps, and interactive tools.  
 🌱 Currently improving my skills in logic, clean code, and GitHub workflows.  
+⚡ Fun fact: I can spend hours debugging without realizing time is flying.
 
-### 🛠️ Projects I'm Proud Of
+---
 
-- 🎲 [Roulette Game](https://github.com/Hajar1010/roulette-game): bet on numbers and try your luck!
-- 🔐 [Password Checker](https://github.com/Hajar1010/password-checker): checks strength of a password
-- 🧠 [Mystery Word Game](https://github.com/Hajar1010/guess-the-word):guess the word (WORDLE_STYLE)
+### 🛠 Projects I'm Proud Of
 
-### 💻 My Skills
-- **Languages:** Python, HTML, CSS, JavaScript  
-- **Tools:** Git, VS Code, GitHub  
-- **Interests:** Web Development, Automation, Algorithms
+- 🎲 **[Roulette Game](https://github.com/Hajar1010/roulette-game)** – Bet on numbers and try your luck in this Python-based casino-style game with randomized spins.
+- 🔐 **[Password Checker](https://github.com/Hajar1010/password-checker)** – Checks the strength of a password using length, character variety, and complexity rules.
+- 🧠 **[Mystery Word Game](https://github.com/Hajar1010/guess-the-word)** – A Wordle-style guessing game where you uncover the hidden word letter by letter.
 
+---
+
+## 💻 Skills & Tools
+
+**Languages:** Python, HTML, CSS, JavaScript  
+**Tools:** Git, VS Code, GitHub, PyCharm  
+**Interests:** Web Development, Automation, Algorithms  
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
+
+---
 
 ### 📊 GitHub Stats
 
@@ -23,7 +44,7 @@
 
 ---
 
-### Connect with Me
+### 🤝 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/hajaressalihi/)  
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&style=flat-square)](https://twitter.com/hajar1010)  
