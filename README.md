@@ -18,6 +18,7 @@
 - 🎲 **[Roulette Game](https://github.com/Hajar1010/roulette-game)** – Bet on numbers and try your luck in this Python-based casino-style game with randomized spins.
 - 🔐 **[Password Checker](https://github.com/Hajar1010/password-checker)** – Checks the strength of a password using length, character variety, and complexity rules.
 - 🧠 **[Mystery Word Game](https://github.com/Hajar1010/guess-the-word)** – A Wordle-style guessing game where you uncover the hidden word letter by letter.
+- ✅ **[To do list app](https://github.com/Hajar1010/to-do-list)** _ A simple Python command-line to-do list app to add, track, complete, and save your daily tasks.
 
 ---
 
