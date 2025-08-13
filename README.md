@@ -1,7 +1,5 @@
 <p align="center">
-  <img src="https://i.imgur.com/NZUP7ti.png" alt="Banner" />
-</p>
-
+  <img src="https://i.imgur.com/NZUP7ti.png" alt="Banner" /> </p>
 ---
 
 ### 👋 About Me
