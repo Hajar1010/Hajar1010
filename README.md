@@ -28,7 +28,7 @@
 
 ## 💻 Skills & Tools
 
-**Languages:** Python, HTML, CSS, JavaScript  
+**Languages:** Python, C, HTML, CSS, JavaScript  
 **Tools:** Git, VS Code, GitHub, PyCharm  
 **Interests:** Web Development, Automation, Algorithms  
 
