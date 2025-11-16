@@ -1,5 +1,5 @@
 <p align="center">
-  <img sbhssrc="https://i.imgur.com/4xDkjzs.png" alt="Banner" /> </p>
+  <img src="https://i.imgur.com/4xDkjzs.png" alt="Banner" /> </p>
 
 ### 👋 About Me
 
