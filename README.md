@@ -44,6 +44,9 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
+![OS: Linux](https://img.shields.io/badge/OS-Linux-informational)
+![Shell: Bash](https://img.shields.io/badge/Shell-Bash-informational)
+![Distro: Ubuntu](https://img.shields.io/badge/Distro-Ubuntu-orange)
 
 ---
 
