@@ -31,7 +31,9 @@
 ## 💻 Skills & Tools
 
 **Languages:** Python, C, HTML, CSS, JavaScript  
-**Tools:** Git, VS Code, GitHub, PyCharm  
+**Tools:** Git, VS Code, GitHub, PyCharm 
+**Operating Systems:** Linux (Ubuntu)
+**Command Line / Shell:** Bash, basic Linux shell commands
 **Interests:** Web Development, Automation, Algorithms  
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
