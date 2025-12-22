@@ -7,7 +7,7 @@
 🌱 Currently improving my skills in logic, clean code, and GitHub workflows.  
 ⚡ Fun fact: I can spend hours debugging without realizing time is flying.
 
----
+---jhuhujhuj
 
 ### 🛠 Projects I'm Proud Of
 ### 🎮 Python Games
