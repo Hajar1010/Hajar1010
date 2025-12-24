@@ -6,7 +6,7 @@
 💡 I enjoy working on mini-games, command-line apps, and interactive tools.  
 🌱 Currently improving my skills in logic, clean code, and GitHub workflows.  
 ⚡ Fun fact: I can spend hours debugging without realizing time is flying.
-jgyugyuygyygygyuhiuhyu
+jgyugyuygyygygyu
 ---
 
 ### 🛠 Projects I'm Proud Of
