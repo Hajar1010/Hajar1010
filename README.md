@@ -12,7 +12,6 @@
 ### 🛠 Projects I'm Proud Of
 ### 🎮 Python Games
 - 🎲 **[Roulette Game](https://github.com/Hajar1010/roulette-game)** – Bet on numbers and try your luck in this Python-based casino-style game with randomized spins.
-
 - 🧠 **[Mystery Word Game](https://github.com/Hajar1010/guess-the-word)** – A Wordle-style guessing game where you uncover the hidden word letter by letter.
 
 ### 🛠️ Tools 
