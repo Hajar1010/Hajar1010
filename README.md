@@ -20,9 +20,7 @@
 - ✅ **[To do list app](https://github.com/Hajar1010/to-do-list)** _ A simple Python command-line to-do list app to add, track, complete, and save your daily tasks.
 
 ### 🌍 Web Projects 
-- 🌍 **[Global Adventures Blog](https://github.com/hajar1010/global-adventures-blog)** — A simple blog website built with HTML & CSS to share cultural experiences and travel stories.
-- 💡 **[Trivia World](https://github.com/hajar1010/global-adventures-blog)** — A simple blog website built with HTML & CSS to share cultural experiences and travel stories. 
-
+still working on it
 
 
 ---
