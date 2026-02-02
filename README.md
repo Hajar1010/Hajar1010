@@ -48,7 +48,7 @@ still working on it
 
 ### 📊 GitHub Stats
 
-![Hajar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hajar1010&show_icons=true&theme=radical)
+![Hajar's GitHub stats](https://github-readme-stats.vercel.app/api?username=hajar1010&show_icons=true&theme=radical)
 
 
 ### 🤝 Connect with Me
