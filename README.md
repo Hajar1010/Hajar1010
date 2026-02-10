@@ -27,7 +27,7 @@
 
 ## 💻 Skills & Tools
 
-**Languages:** Python, C, HTML, CSS, JavaScript  
+**Languages:** Python, C, HTML, CSS, JavaScript, C++(still learning!)
 **Tools:** Git, GitHub, VS Code, PyCharm  
 **Operating Systems:** Linux (Ubuntu)  
 **Command Line / Shell:** Bash, basic Linux shell commands  
