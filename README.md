@@ -56,9 +56,7 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hajar1010&show_icons=true&theme=radical&count_private=true" alt="Hajar's GitHub stats" />
-</p>
+![Hajar's GitHub stats](https://github-readme-stats.vercel.app/api?username=hajar1010&show_icons=true&theme=radical&count_private=true)
 
 ---
 
