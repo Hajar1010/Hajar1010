@@ -27,11 +27,11 @@
 
 ## 💻 Skills & Tools
 
-**Languages:** Python, C, HTML, CSS, JavaScript, C++(still learning!)
-**Tools:** Git, GitHub, VS Code, PyCharm  
-**Operating Systems:** Linux (Ubuntu)  
-**Command Line / Shell:** Bash, basic Linux shell commands  
-**Interests:** Web Development, Automation, Algorithms  
+**Languages**	Python, C, C++, HTML, CSS, JavaScript
+**Frameworks & Libraries**	Django, Bootstrap
+**Tools**	Git, GitHub, VS Code, PyCharm
+**Operating Systems**	Linux (Ubuntu), Bash/Shell
+**Interests**	Web Development, Automation, Algorithms 
 
 ---
 
