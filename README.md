@@ -55,12 +55,7 @@
 ---
 
 ## 📊 GitHub Stats
-
-## 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=hajar1010&show_icons=true&theme=radical&count_private=true" alt="Hajar's GitHub stats" />
-</p>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 ---
 
 ## 🤝 Connect with Me
