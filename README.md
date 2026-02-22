@@ -55,7 +55,7 @@
 ---
 
 ## 📊 GitHub Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![hajart's GitHub stats](https://github-readme-stats.vercel.app/api?username=hajar1010)](https://github.com/hajar1010/github-readme-stats)
 ---
 
 ## 🤝 Connect with Me
