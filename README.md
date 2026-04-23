@@ -6,7 +6,7 @@
 🎓 I'm a Computer Science student passionate about building fun and useful things with programming languages.  
 💡 I enjoy working on mini-games, command-line apps, and interactive tools.  
 🌱 Currently improving my skills in logic, clean code, and GitHub workflows.  
-⚡ Fun fact: I can spend hours debugging without realizing time is flying.dvhu
+⚡ Fun fact: I can spend hours debugging without realizing time is flying.
 
 ---
 
