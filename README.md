@@ -3,7 +3,6 @@
 </p>
 # xsuisdhfasdjfhajhc hhgu jsccheu eh uu HHEFJpue 
  jfhp 
-  Fhfh JN I 
 ## 👋 About Me
 🎓 I'm a Computer Science student passionate about building fun and useful things with programming languages.  
 💡 I enjoy working on mini-games, command-line apps, and interactive tools.  
