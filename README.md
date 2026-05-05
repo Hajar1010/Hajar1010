@@ -37,6 +37,8 @@
 **Tools:** Git, GitHub, VS Code, PyCharm  
 **Operating Systems:** Linux (Ubuntu), Bash/Shell  
 **Interests:** Web Development, Automation, Algorithms
+
+
 ---
 
 ### 🧰 Tech Stack
