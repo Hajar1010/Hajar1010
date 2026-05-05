@@ -19,8 +19,8 @@
   A Wordle-inspired guessing game where players uncover a hidden word letter by letter.
 
 ### 🛠️ Productivity & Tools
-- ✅ **[To-Do List App](https://github.com/Hajar1010/to-do-list)**  
-   A **team project** built as a Python command-line application that helps users add, manage, complete, and save daily tasks efficiently.
+- ✅ **[To-Do List App (C++)](https://github.com/Hajar1010/todo-list-cpp)**  
+  A **team-built C++ console application** for managing tasks with sorting, filtering, recurring tasks, notifications, file persistence, and multilingual support.
 
 - 🔐 **[Password Checker](https://github.com/Hajar1010/password-checker)**  
   A password strength checker that evaluates passwords based on length, character variety, and complexity rules.
