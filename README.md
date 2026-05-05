@@ -9,30 +9,34 @@
 ⚡ Fun fact: I can spend hours debugging without realizing time is flying.
 
 ---
-
 ## 🛠 Projects I'm Proud Of
 
 ### 🎮 Python Games
-- 🎲 **[Roulette Game](https://github.com/Hajar1010/roulette-game)** – Bet on numbers and try your luck in this Python-based casino-style game with randomized spins.
-- 🧠 **[Mystery Word Game](https://github.com/Hajar1010/guess-the-word)** – A Wordle-style guessing game where you uncover the hidden word letter by letter.
+- 🎲 **[Roulette Game](https://github.com/Hajar1010/roulette-game)**  
+  A Python-based casino-style game where players bet on numbers and test their luck with randomized spins.
 
-### 🛠️ Tools
-- 🔐 **[Password Checker](https://github.com/Hajar1010/password-checker)** – Checks the strength of a password using length, character variety, and complexity rules.
-- ✅ **[To-Do List App](https://github.com/Hajar1010/to-do-list)** – A simple Python command-line app to add, track, complete, and save daily tasks.
+- 🧠 **[Mystery Word Game](https://github.com/Hajar1010/guess-the-word)**  
+  A Wordle-inspired guessing game where players uncover a hidden word letter by letter.
+
+### 🛠️ Productivity & Tools
+- ✅ **[To-Do List App](https://github.com/Hajar1010/to-do-list)**  
+   A **team project** built as a Python command-line application that helps users add, manage, complete, and save daily tasks efficiently.
+
+- 🔐 **[Password Checker](https://github.com/Hajar1010/password-checker)**  
+  A password strength checker that evaluates passwords based on length, character variety, and complexity rules.
 
 ### 🌍 Web Projects
-🚧 Still working on it — coming soon!
+🚧 Currently building web projects — coming soon!
 
 ---
 
 ## 💻 Skills & Tools
 
-  **Languages:** Python, C, C++, HTML, CSS, JavaScript  
-  **Frameworks & Libraries:** Django, Bootstrap  
-  **Tools:** Git, GitHub, VS Code, PyCharm  
-  **Operating Systems:** Linux (Ubuntu), Bash/Shell  
-  **Interests:** Web Development, Automation, Algorithms
-  
+**Languages:** Python, C, C++, HTML, CSS, JavaScript  
+**Frameworks & Libraries:** Django, Bootstrap  
+**Tools:** Git, GitHub, VS Code, PyCharm  
+**Operating Systems:** Linux (Ubuntu), Bash/Shell  
+**Interests:** Web Development, Automation, Algorithms
 ---
 
 ### 🧰 Tech Stack
