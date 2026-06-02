@@ -26,17 +26,18 @@
   A password strength checker that evaluates passwords based on length, character variety, and complexity rules.
 
 ### 🌍 Web Projects
-🚧 Currently building web projects — coming soon!
+- ✅ **[Snake Game](https://github.com/Hajar1010/snake-game)**  
+ A retro-style browser game built with HTML5, CSS3, and vanilla JavaScript, featuring a dark neon aesthetic, progressive difficulty scaling, and fluid collision tracking.
 
 ---
 
 ## 💻 Skills & Tools
 
-**Languages:** Python, C, C++, HTML, CSS, JavaScript, SQL 
-**Frameworks & Libraries:** Django, Bootstrap  
-**Tools:** Git, GitHub, VS Code, PyCharm  
-**Operating Systems:** Linux (Ubuntu), Bash/Shell, MySQL
-**Interests:** Web Development, Automation, Algorithms
+- **Languages:** Python, C, C++, HTML, CSS, JavaScript, SQL
+- **Frameworks & Libraries:** Django, Bootstrap  
+- **Tools:** Git, GitHub, VS Code, PyCharm  
+- **Operating Systems:** Linux (Ubuntu), Bash/Shell, MySQL
+- **Interests:** Web Development, Automation, Algorithms
 
 
 ---
@@ -61,7 +62,7 @@
 ---
 
 ## 📊 GitHub Stats
-[![hajart's GitHub stats](https://github-readme-stats.vercel.app/api?username=hajar1010)](https://github.com/hajar1010/github-readme-stats)
+[![hajart's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hajar1010)](https://github.com/Hajar1010)
 ---
 
 ## 🤝 Connect with Me
