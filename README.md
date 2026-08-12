@@ -9,7 +9,7 @@
  Fun fact: I can spend hours debugging without realizing time is flying.
 
 ---
-## 🛠 Projects I'm Proud Of
+## 🛠 Projects I'm Proud O
 
 ###  Python Games
 -  **[Roulette Game](https://github.com/Hajar1010/roulette-game)**  
