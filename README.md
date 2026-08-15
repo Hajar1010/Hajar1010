@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://i.imgur.com/x8MbGUq.png" alt="Banner" />
 </p>
-jdhwhcnw xjjwhdhj  hjhsd hjey s uAJ N 
+jdhwhcnw xjjwhdhj
 ## 👋 About Me
  I'm a Computer Science student passionate about building fun and useful things with programming languages.  
  I enjoy working on mini-games, command-line apps, and interactive tools.  
