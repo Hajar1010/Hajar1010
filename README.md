@@ -33,7 +33,7 @@
 
 ##  Skills & Tools
 
-- **Languages:** Python, C, C++, HTML, CSS, JavaScript, SQL
+- **Languages:** Python, C, C++, HTML, CSS, JavaScript, Java, SQL
 - **Frameworks & Libraries:** Django, Bootstrap  
 - **Tools:** Git, GitHub, VS Code, PyCharm  
 - **Operating Systems:** Linux (Ubuntu), Bash/Shell, MySQL
